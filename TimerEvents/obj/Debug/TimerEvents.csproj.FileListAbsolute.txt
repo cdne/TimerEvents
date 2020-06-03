@@ -1,0 +1,15 @@
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\App.g.cs
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\MainWindow.baml
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.g.resources
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\Users\Claudiu\source\repos\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
